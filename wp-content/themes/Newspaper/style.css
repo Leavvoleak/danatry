@@ -25,6 +25,14 @@ Tags:black, white, one-column, two-columns, fixed-layout
 body {
   visibility: visible !important;
 }
+#td-header-menu{
+	font-family:'Moul';
+	font-size:2em;
+		
+}
+h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a{
+	font-family:'Khmer Kep';
+}
 /*  ----------------------------------------------------------------------------
     responsive settings
 */
